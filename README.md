@@ -21,7 +21,7 @@ It scans your source code and test/config files, compares imports with `package.
 1. Clone or copy the script to your project root:
 
 ```bash
-curl -O https://raw.githubusercontent.com/lchsjji/auto-install-deps/main/auto-install.sh
+curl -O https://raw.githubusercontent.com/Fcharki/auto-install-deps/main/auto-install.sh
 
 ```
 2. Make the script executable:
@@ -61,3 +61,4 @@ chmod +x auto-install.sh
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
+
